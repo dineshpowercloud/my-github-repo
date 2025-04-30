@@ -5,3 +5,4 @@ print('Hello from script1')
 # Added a new feature
 >>>>>>> feature-branch
 # Added a new feature
+# Change from main branch
